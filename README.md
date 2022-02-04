@@ -34,7 +34,7 @@
   ![Snake animation](https://github.com/JaquelineNovaes/JaquelineNovaes/blob/output/github-contribution-grid-snake.svg)
  </div>
  
- <h3 align="center">REPOSITÓRIOS<h3>
+ <h3 align="center">REPOSITORIES<h3>
 <div align="center">
   <a href="https://github.com/JaquelineNovaes/JaquelineNovaes" title="Profile">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=JaquelineNovaes&repo=JaquelineNovaes&theme=nightowl">
