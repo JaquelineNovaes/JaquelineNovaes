@@ -49,7 +49,7 @@
   </a>
 </div>
   
-<br><br><br>
+<br>
  <div align="center">
    <img height="120" width="1120" src="https://user-images.githubusercontent.com/98557538/152582117-db099c2f-332b-49d4-9ba5-d61b724e6d04.gif"/> 
 </div>
