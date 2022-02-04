@@ -24,7 +24,6 @@
  
   <div align="center"> 
     <img height="35" width="40" src="https://user-images.githubusercontent.com/98557538/152588600-3c69e7f6-9a53-4b1d-a65d-48943f68bef7.png">
-  <a href="https://instagram.com/_jaqueline_novaes_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jaquelinenovaes475@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jaqueline-novaes-96753122b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://api.whatsapp.com/send?phone=5511933452001&text=Oie%2C%20eu%20sou%20a%20Jaqueline%20Novaes!%20" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
