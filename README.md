@@ -22,7 +22,7 @@
    <a href="https://api.whatsapp.com/send?phone=5511933452001&text=Oie%2C%20eu%20sou%20a%20Jaqueline%20Novaes!%20" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
    
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/JaquelineNovaes/JaquelineNovaes/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
