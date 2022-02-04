@@ -1,4 +1,5 @@
-# Oie, eu sou a Jaqueline Novaes!! 
+# <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Oie, eu sou a Jaqueline Novaes!! 
+
 <div align="center">
   <a href="https://github.com/JaquelineNovaes">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaquelineNovaes&layout=compact&langs_count=7&theme=nightowl"/>
@@ -12,6 +13,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="right" height="140" src="https://user-images.githubusercontent.com/98557538/152552777-20ed3566-9f38-4920-8739-00d9de34de1d.gif">
 </div>
   
