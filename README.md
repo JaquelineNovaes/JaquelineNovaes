@@ -1,4 +1,4 @@
-# <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Oie, eu sou a Jaqueline Novaes!! 
+# Oie, eu sou a Jaqueline Novaes!! <img align="left"  height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/98557538/152570648-bf9098d2-5273-4db2-9f5e-dea7f8e431b7.png">
 
 <div align="center">
   <a href="https://github.com/JaquelineNovaes">
