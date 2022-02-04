@@ -7,6 +7,7 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=JaquelineNovaes&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
 </div>
 <div align="center" style="display: inline_block"><br>
+  <img align="left" height="140" src="https://user-images.githubusercontent.com/98557538/152552777-20ed3566-9f38-4920-8739-00d9de34de1d.gif">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
