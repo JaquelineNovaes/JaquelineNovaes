@@ -1,5 +1,6 @@
-# Oie, eu sou a Jaqueline Novaes!!
- <img src="https://user-images.githubusercontent.com/98557538/152580860-e178c645-42d9-4607-acd6-3be8d04affd0.gif"/>
+<img height="120" width="1120" src="https://user-images.githubusercontent.com/98557538/152580860-e178c645-42d9-4607-acd6-3be8d04affd0.gif"/>
+
+# Oie, eu sou a Jaqueline Novaes!! 
 <div align="center">
   <a href="https://github.com/JaquelineNovaes">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaquelineNovaes&layout=compact&langs_count=7&theme=nightowl"/>
