@@ -31,8 +31,9 @@
  
   <div align="center">
     <img  height="240" src="https://user-images.githubusercontent.com/98557538/152571848-60236af4-723e-4717-88c8-bfad09066aec.gif"/>
+    <img  height="240" width="330" src="https://user-images.githubusercontent.com/98557538/152571956-1aebe204-2e67-4185-9e00-abd717893a86.gif"/>
     <img  height="240" src="https://user-images.githubusercontent.com/98557538/152570648-bf9098d2-5273-4db2-9f5e-dea7f8e431b7.png"/>
-    <img  height="240" width="280" src="https://user-images.githubusercontent.com/98557538/152571956-1aebe204-2e67-4185-9e00-abd717893a86.gif"/>
+   
 </div>
 
 
