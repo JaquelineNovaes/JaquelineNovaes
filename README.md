@@ -5,7 +5,7 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaquelineNovaes&layout=compact&langs_count=7&theme=nightowl"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=JaquelineNovaes&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
 </div>
-<div align="left" style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
