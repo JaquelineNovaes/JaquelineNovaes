@@ -1,4 +1,4 @@
-## Oie eu sou a Jaqueline Novaes!!
+## Oie, eu sou a Jaqueline Novaes!!
 <div align="center">
   <a href="https://github.com/JaquelineNovaes">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JaquelineNovaes&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
