@@ -32,7 +32,6 @@
   <img height="35" width="40" src="https://user-images.githubusercontent.com/98557538/152588541-5d43e868-b349-4f87-b0ac-056dea126508.png">
 
   ![Snake animation](https://github.com/JaquelineNovaes/JaquelineNovaes/blob/output/github-contribution-grid-snake.svg)
-  ##
  </div>
  
  <h3 align="center">REPOSITÓRIOS<h3>
