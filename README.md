@@ -36,16 +36,16 @@
   
 <div align="center">
   <a href="https://github.com/JaquelineNovaes/JaquelineNovaes" title="Profile">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=JaquelineNovaes&repo=JaquelineNovaes&theme=nightowl">
+    <img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=JaquelineNovaes&repo=JaquelineNovaes&theme=nightowl">
   </a>
   <a href="https://github.com/JaquelineNovaes/JaquelineNovaes" title="Profile">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=JaquelineNovaes&repo=JaquelineNovaes&theme=nightowl">
+    <img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=JaquelineNovaes&repo=JaquelineNovaes&theme=nightowl">
   </a>
   <a href="https://github.com/JaquelineNovaes/JaquelineNovaes" title="Profile">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=JaquelineNovaes&repo=JaquelineNovaes&theme=nightowl">
+    <img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=JaquelineNovaes&repo=JaquelineNovaes&theme=nightowl">
   </a>
   <a href="https://github.com/JaquelineNovaes/JaquelineNovaes" title="Profile">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=JaquelineNovaes&repo=JaquelineNovaes&theme=nightowl">
+    <img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=JaquelineNovaes&repo=JaquelineNovaes&theme=nightowl">
   </a>
 </div>
   
