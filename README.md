@@ -39,8 +39,8 @@
   <a href="https://github.com/JaquelineNovaes/simple-projects" title="Simple Projects">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=JaquelineNovaes&repo=simple-projects&theme=nightowl">
   </a>
-  <a href="https://github.com/JaquelineNovaes/simple-projects" title="Simple Projects">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=JaquelineNovaes&repo=simple-projects&theme=nightowl">
+  <a href="https://github.com/JaquelineNovaes/loja-eletronicos" title="Loja de eletrônicos">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=JaquelineNovaes&repo=loja-eletronicos&theme=nightowl">
   </a>
 </div>
   
