@@ -1,4 +1,4 @@
-<img height="120" width="1120" src="https://user-images.githubusercontent.com/98557538/152580860-e178c645-42d9-4607-acd6-3be8d04affd0.gif"/>
+<img height="120" width="1000" src="https://user-images.githubusercontent.com/98557538/152580860-e178c645-42d9-4607-acd6-3be8d04affd0.gif"/>
 
 # Hi, I'm Jaqueline Novaes, programming student!!  <img height="35" width="40" src="https://user-images.githubusercontent.com/98557538/152588563-927b4112-a6a9-498a-9662-418f655bbc53.png"> <img align="right" src="https://komarev.com/ghpvc/?username=JaquelineNovaes&label=Profile%20views&color=blue&style=flat"/> 
 
@@ -46,5 +46,5 @@
   
 <br>
  <div align="center">
-   <img height="120" width="1120" src="https://user-images.githubusercontent.com/98557538/152582117-db099c2f-332b-49d4-9ba5-d61b724e6d04.gif"/> 
+   <img height="120" width="1000" src="https://user-images.githubusercontent.com/98557538/152582117-db099c2f-332b-49d4-9ba5-d61b724e6d04.gif"/> 
 </div>
