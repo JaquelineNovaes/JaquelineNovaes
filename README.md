@@ -27,10 +27,10 @@
  <h3 align="center">REPOSITORIES<h3>
 <div align="center">
   <a href="https://github.com/JaquelineNovaes/simple-projects" title="Simple Projects">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=JaquelineNovaes&repo=simple-projects&theme=nightowl">
+    <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=JaquelineNovaes&repo=simple-projects&theme=nightowl">
   </a>
   <a href="https://github.com/JaquelineNovaes/simple-projects" title="Simple Projects">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=JaquelineNovaes&repo=simple-projects&theme=nightowl">
+    <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=JaquelineNovaes&repo=simple-projects&theme=nightowl">
   </a>
 </div>
   
