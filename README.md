@@ -2,7 +2,7 @@
 <img height="120" width="830" src="https://user-images.githubusercontent.com/98557538/152580860-e178c645-42d9-4607-acd6-3be8d04affd0.gif"/>
 </div>
 
-# Hello! Welcome to my small space on the web! <img align="right" src="https://komarev.com/ghpvc/?username=JaquelineNovaes&label=Profile%20views&color=blue&style=flat"/> 
+#  -  Hello! Welcome to my little space on the web! <img align="right" src="https://komarev.com/ghpvc/?username=JaquelineNovaes&label=Profile%20views&color=blue&style=flat"/> 
 
 <div align="center">
   <a href="https://github.com/JaquelineNovaes">
